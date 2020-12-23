@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2020-07-08 15:16:28" unload_format="1" unload_table="ops_unv_tmplt" unload_version="6.8.0.0"><ops_unv_tmplt action="INSERT_OR_UPDATE"><credentials_var/><agent>aa288d4fa10945dd895038893cf96b2d</agent><icon_date_created>2020-04-24 07:38:58</icon_date_created><sys_updated_on>2020-05-28 11:46:14</sys_updated_on><output_return_text/><sys_updated_by>Ravi</sys_updated_by><sys_created_on>2020-04-23 21:01:25</sys_created_on><agent_cluster_var/><agent_cluster_var_check>false</agent_cluster_var_check><wait_for_output>false</wait_for_output><sys_created_by>Ravi</sys_created_by><output_return_nline>100</output_return_nline><exit_code_text/><exit_code_fr>0</exit_code_fr><runtime_dir/><output_return_type>1</output_return_type><script/><broadcast_cluster_var_check>false</broadcast_cluster_var_check><agent_type>1</agent_type><script_type_windows>py</script_type_windows><automatic_output_fr>0</automatic_output_fr><agent_cluster/><name>AWS-EC2-Start-Stop-Terminate-Instance</name><exit_codes>0</exit_codes><broadcast_cluster/><use_common_script>false</use_common_script><credentials/><icon_filesize>9802</icon_filesize><icon>iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABhGlDQ1BJQ0MgcHJvZmlsZQAAKJF9kT1Iw0AcxV9TpVqqDnYQcchQnSyIijhKFYtgobQVWnUwufQLmjQkKS6OgmvBwY/FqoOLs64OroIg+AHi5Oik6CIl/i8ptIjx4Lgf7+497t4BQqPCVLNrAlA1y0jFY2I2tyoGXiGgH72YRVBipp5IL2bgOb7u4ePrXZRneZ/7c/QpeZMBPpF4jumGRbxBPLNp6Zz3icOsJCnE58TjBl2Q+JHrsstvnIsOCzwzbGRS88RhYrHYwXIHs5KhEk8TRxRVo3wh67LCeYuzWqmx1j35C0N5bSXNdZojiGMJCSQhQkYNZVRgIUqrRoqJFO3HPPzDjj9JLplcZTByLKAKFZLjB/+D392ahalJNykUA7pfbPtjFAjsAs26bX8f23bzBPA/A1da219tALOfpNfbWuQIGNgGLq7bmrwHXO4AQ0+6ZEiO5KcpFArA+xl9Uw4YvAWCa25vrX2cPgAZ6mr5Bjg4BMaKlL3u8e6ezt7+PdPq7wdtl3KlMp+vwAAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB+QCDgoGMz8DlCEAACAASURBVGgFATAkz9sB/////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA7e7uANvb3ADZ2tsA6urrAP39/gAQEA8AJyYkADAvLgAREREAAAAAAAAAAADZ2doA8/P0ABISEQAiIiEAAAAAAAAAAAAAAAAAAAAAAOLi4wDq6+sACAcHACkpKAADAwMAAAAAAAAAAAAAAAAA8/PzANvb3AD+//8AKikpAAoKCQAAAAAA9PT0AM7P0ADT09YA7O3tAAcHBwAdHBoAKiopACgnJgAJCQkAAAAAAAAAAAAEAAAAAAAAAAAAAAAAubm7AI6TmgDf5OoAAAAAAAAAAAAAAAAAAAAAAAAAAAAwKiMAhIF6ACYlJAAAAAAAtri7AJefqgAwKiMAoZ2VAAkJCQAAAAAAAAAAAPz8/ACJjJEAu8LLAAQDAgC5sKMAHR0cAAAAAAAAAAAAAAAAAL/AwgB0fYoADwwJALewpAAKCgkA4+PkAISIjAC/xc8AAAAAAAAAAAAAAAAAAAAAAAAAAABhWU4AdXNvAAQEBAAAAAAABAAAAAAAAAAAAAAAAMTHyQAGBgUAbGRYACsqKQAQEA8A+vr6ANnZ2wCdoqoA0NbdAIaJjgCVkYwACwsKADY0MgCXn6oA0NbdAOjo6QAhISAAAAAAAAAAAADv7+8AxsvSAAAAAAD8/f4A3t/fAB0dHAAAAAAAAAAAAP///wDKzM4AAAAAAEZCOgASEhIA9fX2AIOGiwDAx9AANzEoAFxYVAAbHBsAAQAAAO3u7gDOz9EA3d7gAP39/QAEBAQAAAAAAAD////////////////g4OH/8fHy////////////////////////////wsPF/yUvPv8lLz7/0NHS///////q6ur/NDtH/yUvPv+5urz/////////////////zs7P/yUvPv9BR1H/JS8+/5aXmv/////////////////v7/D/P0VP/yUvPv+3uLr//////9HS0/8lLz7/JS8+/9nZ2v///////////////////////v7+//T09P////////////////8CAAAAAAAAAAAAAAAAHx8eAA4ODQAAAAAAAAAAAAAAAAAAAAAAAAAAAC4tKwAaFhEAAAAAAOTk5QAAAAAAExMTAEM+NwAAAAAA09TVAAAAAAAAAAAAAAAAANnb3AAAAAAAZmFZAAgGBQDO0NMA+fn6AAAAAAAAAAAA5eXlAObq7wAIBgUAKyopAAAAAAD09PQAAAAAAAAAAAANDQwAAAAAAAAAAAAAAAAAAAAAAAEBAQALCwsAAAAAAAAAAAAAAAAAAgAAAAAA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9QAA9O0AAPLqAADy6AAA9ewAAPjvAAD69AAA/fkAAAECAAADBwAABg4AAAkSAAANFwAADhcAAA4WAAALEAAABQgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzXHCLgAABDtJREFUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACSchjyL654NQAAAABJRU5ErkJggg==</icon><credential_fr>0</credential_fr><description>Universal Template to create EC2 Instance</description><environment_variables_fr>0</environment_variables_fr><agent_var/><icon_filename>aws icon.png</icon_filename><sys_id>0121101ab3224e4daae7e295d44d9700</sys_id><variable_prefix>ec2</variable_prefix><system_template>false</system_template><script_windows/><credentials_var_check>false</credentials_var_check><agent_fr>0</agent_fr><agent_var_check>false</agent_var_check><output_failure_only>false</output_failure_only><output_return_sline>1</output_return_sline><output_type>1</output_type><desktop_interact>false</desktop_interact><script_unix>#!/usr/bin/python3
+#/opt/universal/python3.6/bin/python3
+###########################################################
+#    Name: EC2_Start_Stop_Instance.py
+#
+#    Purpose: 
+#           1. Start EC2 Instances 
+#           2. Stop EC2 Instances
+#           3. Terminate EC2 Instances
+#
+#    Prerequisites:
+#     - Universal Agent for Windows/Linux
+#     - Python 2.7.x
+#     - Requires the Python modules
+#     - datetime, boto3 , botocore, argparse, sys
+#     - Note: module can be added using pip
+#     - e.g. use: pip install boto3
+#
+#     Version History:
+#     0.1  Ravi Murugesan 2020-04-19 Initial Version
+#     0.2  Ravi Murugesan 2020-05-28 Info detail update
+####################################################
+version = "0.2"
+
+# Used modules
+
+import re
+import glob
+import sys, os
+import datetime, time
+import logging
+import boto3, botocore
+import argparse
+
+# -- loglevel settings INFO,DEBUG, WARNING, ERROR, CRITICAL
+
+logging.basicConfig(level=logging.INFO, format=' %(asctime)s - %(levelname)s - %(message)s')
+
+def main():
+    Set_Variables()  # -- Set Variables from Universal Task Form or Command Line Input
+    if args.ec2_instance_option == "start_ec2":
+        start_ec2_instance()
+    elif args.ec2_instance_option == "stop_ec2":
+        stop_ec2_instance()
+    elif args.ec2_instance_option == "terminate_ec2":
+        terminate_ec2_instance()
+    elif args.ec2_instance_option == "ec2_status":
+        ec2_instance_status()
+# --
+def Set_Variables():
+    parser = argparse.ArgumentParser(description='Purpose : Create EC2 Instance')
+    # ## --&gt; AWS Connection Settings:
+    parser.add_argument("--AWS_ACCESS_KEY_ID", default="${_credentialPwd('${ops_ec2_aws_access_key_id}')}")
+    parser.add_argument("--AWS_SECRET_ACCESS_KEY", default="${_credentialPwd('${ops_ec2_aws_secret_access_key}')}")
+    parser.add_argument("--AWS_DEFAULT_REGION", default="${_credentialPwd('${ops_ec2_aws_default_region}')}")
+
+    # ## --&gt;EC2 API specific Settings
+    parser.add_argument("--ec2_instance_option", default="${ops_ec2_ec2_instance_option}")
+    parser.add_argument("--instance_ids", default="${ops_ec2_instance_ids}")
+
+    # ## --
+    global args
+    args = parser.parse_args()
+    # -- Setup Logging
+    logging.info("Executing version " + version + " with the following paramaters")
+    logging.info(args)
+# --
+# --
+### Make Resource connection 
+def make_resource_connection():
+    from botocore.config import Config
+    logging.info('EC2 Resource connection')
+    ec2resource = boto3.client(
+            'ec2',
+            aws_access_key_id=args.AWS_ACCESS_KEY_ID,
+            aws_secret_access_key=args.AWS_SECRET_ACCESS_KEY,
+            region_name=args.AWS_DEFAULT_REGION
+    )
+    return ec2resource
+##################################################################################################
+# Use Boto3 Function to start ec2 instance(s) 
+#
+##################################################################################################
+def start_ec2_instance():
+    # Establish connection to AWS
+    ########################################################
+    ec2resource = make_resource_connection()
+    #Format the instanceid input for the boto3 function
+    instances=args.instance_ids.split(',')
+    try:
+        logging.info("------------------------------")
+        logging.info("Initiating EC2 Instance start ")
+        logging.info("------------------------------")
+        waiter = ec2resource.get_waiter('instance_running')
+        response=ec2resource.start_instances(
+        InstanceIds=instances)
+        logging.info(response)
+        logging.info("Waiting until instance is running")
+        waiter.wait(InstanceIds=instances)
+        logging.info("Instances: "+args.instance_ids+" is in running status")
+        logging.info(" Check Instance status")
+        waiter = ec2resource.get_waiter('instance_status_ok')
+        waiter.wait(InstanceIds=instances)
+        logging.info("Instance Status Check Completed")
+    except Exception as e:
+        logging.error("Error in starting ec2 instance")
+        logging.error(e)
+        sys.exit(1)
+#################################################################
+# Function to stop EC2 instance(s)
+#################################################################
+def stop_ec2_instance():
+    # Establish connection to AWS
+    ########################################################
+    ec2resource = make_resource_connection()
+    #Format the instanceid input for the boto3 function
+    instances=args.instance_ids.split(',')
+    try:
+        logging.info("----------------------------")
+        logging.info("Initiating EC2 Instance Stop")
+        logging.info("----------------------------")
+        waiter = ec2resource.get_waiter('instance_stopped')
+        response=ec2resource.stop_instances(
+        InstanceIds=instances)
+        logging.info(response)
+        waiter.wait(InstanceIds=instances)
+        logging.info("Instances: "+args.instance_ids+" is Stopped")
+    except Exception as e:
+        logging.error("Error in stopping ec2 instance")
+        logging.error(e)
+        sys.exit(1)
+#################################################################
+# Function to Terminate EC2 instance(s)
+#################################################################
+def terminate_ec2_instance():
+    # Establish connection to AWS
+    ########################################################
+    ec2resource = make_resource_connection()
+    #Format the instanceid input for the boto3 function
+    instances=args.instance_ids.split(',')
+    try:
+        logging.info("-----------------------------------")
+        logging.info("Initiating EC2 Instance Termination")
+        logging.info("-----------------------------------")
+        waiter = ec2resource.get_waiter('instance_terminated')
+        response=ec2resource.terminate_instances(
+        InstanceIds=instances)
+        logging.info(response)
+        waiter.wait(InstanceIds=instances)
+        logging.info("Instances: "+args.instance_ids+" is terminated")
+    except Exception as e:
+        logging.error("Error in Terminating ec2 instance")
+        logging.error(e)
+        sys.exit(1)
+#################################################################
+# Function to Check EC2 instance(s) status
+#################################################################
+def ec2_instance_status():
+    # Establish connection to AWS
+    ########################################################
+    ec2resource = make_resource_connection()
+    #Format the instanceid input for the boto3 function
+    instances=args.instance_ids.split(',')
+    try:
+        logging.info("-----------------------------------")
+        logging.info("Initiating EC2 Instance Status")
+        logging.info("-----------------------------------")
+        response=ec2resource.describe_instance_status(
+        InstanceIds=instances)
+        logging.info(response)
+        for instance in response['InstanceStatuses']:
+            logging.info("Instance ID :"+instance['InstanceId']+" Instance State:"+instance['InstanceState']['Name']+" Instance Status:"+instance['InstanceStatus']['Status']+" System Status:"+instance['SystemStatus']['Status'])
+    except Exception as e:
+        logging.error("Error in checking ec2 instance status")
+        logging.error(e)
+        sys.exit(1)
+# -- Execute
+main()</script_unix><output_return_file/><run_as_sudo>false</run_as_sudo><broadcast_cluster_var/><environment/><elevate_user>false</elevate_user><exit_code_output/><exit_code_processing>1</exit_code_processing><create_console>false</create_console><related_items_node><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2020-04-23 21:01:25</sys_updated_on><boolean_value_type>1</boolean_value_type><required>true</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>28eaa56b8c944b808e524343f674e2c8</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>Ravi</sys_updated_by><array_value_title/><sys_created_on>2020-04-23 21:01:25</sys_created_on><field_value/><no_space_if_hidden>false</no_space_if_hidden><require_if_visible>false</require_if_visible><sys_created_by>Ravi</sys_created_by><int_field_min/><universal_template_id>0121101ab3224e4daae7e295d44d9700</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>AWS_ACCESS_KEY_ID</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>1</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint>AWS_ACCESS_KEY_ID</hint><field_mapping>credentialField2</field_mapping><name>aws_access_key_id</name><field_regex/><field_type>5</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2020-04-23 21:01:25</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>4d4a3905dfb545c9943d62a7f278f223</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>Ravi</sys_updated_by><array_value_title/><sys_created_on>2020-04-23 21:01:25</sys_created_on><field_value/><no_space_if_hidden>false</no_space_if_hidden><require_if_visible>false</require_if_visible><sys_created_by>Ravi</sys_created_by><int_field_min/><universal_template_id>0121101ab3224e4daae7e295d44d9700</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>loglevel</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>3</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint>loglevel</hint><field_mapping>choiceField1</field_mapping><name>loglevel</name><field_regex/><field_type>4</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2020-04-23 21:21:00</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>6d42a93db87d4abeb249a203c9b18fc9</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>Ravi</sys_updated_by><array_value_title/><sys_created_on>2020-04-23 21:01:25</sys_created_on><field_value/><no_space_if_hidden>false</no_space_if_hidden><require_if_visible>false</require_if_visible><sys_created_by>Ravi</sys_created_by><int_field_min/><universal_template_id>0121101ab3224e4daae7e295d44d9700</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>EC2 Instance Function</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>4</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint>select the choice for instance creation</hint><field_mapping>choiceField4</field_mapping><name>ec2_instance_option</name><field_regex/><field_type>4</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2020-04-23 21:01:25</sys_updated_on><boolean_value_type>1</boolean_value_type><required>true</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>8cd855505caa4cac956750fda2f80a16</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>Ravi</sys_updated_by><array_value_title/><sys_created_on>2020-04-23 21:01:25</sys_created_on><field_value/><no_space_if_hidden>false</no_space_if_hidden><require_if_visible>false</require_if_visible><sys_created_by>Ravi</sys_created_by><int_field_min/><universal_template_id>0121101ab3224e4daae7e295d44d9700</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>AWS_SECRET_ACCESS_KEY</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>2</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint>AWS_SECRET_ACCESS_KEY</hint><field_mapping>credentialField3</field_mapping><name>aws_secret_access_key</name><field_regex/><field_type>5</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2020-04-23 21:01:25</sys_updated_on><boolean_value_type>1</boolean_value_type><required>true</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>f1aa687007834ce599c5a2cec751809d</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>Ravi</sys_updated_by><array_value_title/><sys_created_on>2020-04-23 21:01:25</sys_created_on><field_value/><no_space_if_hidden>false</no_space_if_hidden><require_if_visible>false</require_if_visible><sys_created_by>Ravi</sys_created_by><int_field_min/><universal_template_id>0121101ab3224e4daae7e295d44d9700</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>AWS_DEFAULT_REGION</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>0</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint>AWS_DEFAULT_REGION</hint><field_mapping>credentialField1</field_mapping><name>aws_default_region</name><field_regex/><field_type>5</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>true</form_start_row><sys_updated_on>2020-04-23 21:15:08</sys_updated_on><boolean_value_type>1</boolean_value_type><required>true</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>fdb7f5012ed8441398be6ea3c01c08ce</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>Ravi</sys_updated_by><array_value_title/><sys_created_on>2020-04-23 21:01:25</sys_created_on><field_value/><no_space_if_hidden>false</no_space_if_hidden><require_if_visible>false</require_if_visible><sys_created_by>Ravi</sys_created_by><int_field_min/><universal_template_id>0121101ab3224e4daae7e295d44d9700</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>3</form_col_span><field_length/><form_end_row>true</form_end_row><label>InstanceIds</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>5</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint>Provide one or multiple InstanceIds</hint><field_mapping>textField15</field_mapping><name>instance_ids</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>6d42a93db87d4abeb249a203c9b18fc9</field_id><use_field_value_for_label>false</use_field_value_for_label><sys_id>0c339eb627064d949344702bc1b80291</sys_id><sequence>3</sequence><sys_updated_by>Ravi</sys_updated_by><sys_created_on>2020-04-23 21:10:52</sys_created_on><field_value_label>EC2 Status</field_value_label><field_value>ec2_status</field_value><sys_updated_on>2020-04-23 21:10:52</sys_updated_on><sys_created_by>Ravi</sys_created_by><universal_template_id>0121101ab3224e4daae7e295d44d9700</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>4d4a3905dfb545c9943d62a7f278f223</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>1818c656822f4c7faf68865c7c1e858b</sys_id><sequence>0</sequence><sys_updated_by>Ravi</sys_updated_by><sys_created_on>2020-04-23 21:01:25</sys_created_on><field_value_label>info</field_value_label><field_value>info</field_value><sys_updated_on>2020-04-23 21:01:25</sys_updated_on><sys_created_by>Ravi</sys_created_by><universal_template_id>0121101ab3224e4daae7e295d44d9700</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>6d42a93db87d4abeb249a203c9b18fc9</field_id><use_field_value_for_label>false</use_field_value_for_label><sys_id>2595e50f3b144d58902158452fcd22e2</sys_id><sequence>1</sequence><sys_updated_by>Ravi</sys_updated_by><sys_created_on>2020-04-23 21:01:25</sys_created_on><field_value_label>Stop EC2 Instance</field_value_label><field_value>stop_ec2</field_value><sys_updated_on>2020-04-23 21:07:51</sys_updated_on><sys_created_by>Ravi</sys_created_by><universal_template_id>0121101ab3224e4daae7e295d44d9700</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>6d42a93db87d4abeb249a203c9b18fc9</field_id><use_field_value_for_label>false</use_field_value_for_label><sys_id>6e35be0671804496831279ee3f67a05b</sys_id><sequence>2</sequence><sys_updated_by>Ravi</sys_updated_by><sys_created_on>2020-04-23 21:10:17</sys_created_on><field_value_label>Terminate EC2 Instance</field_value_label><field_value>terminate_ec2</field_value><sys_updated_on>2020-04-23 21:10:17</sys_updated_on><sys_created_by>Ravi</sys_created_by><universal_template_id>0121101ab3224e4daae7e295d44d9700</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>4d4a3905dfb545c9943d62a7f278f223</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>774c84f3f1f54f01bfcfff72a3c4c45a</sys_id><sequence>1</sequence><sys_updated_by>Ravi</sys_updated_by><sys_created_on>2020-04-23 21:01:25</sys_created_on><field_value_label>debug</field_value_label><field_value>debug</field_value><sys_updated_on>2020-04-23 21:01:25</sys_updated_on><sys_created_by>Ravi</sys_created_by><universal_template_id>0121101ab3224e4daae7e295d44d9700</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>4d4a3905dfb545c9943d62a7f278f223</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>bb888ed53ca5497bbf2e78cc128b651a</sys_id><sequence>3</sequence><sys_updated_by>Ravi</sys_updated_by><sys_created_on>2020-04-23 21:01:25</sys_created_on><field_value_label>critical</field_value_label><field_value>critical</field_value><sys_updated_on>2020-04-23 21:01:25</sys_updated_on><sys_created_by>Ravi</sys_created_by><universal_template_id>0121101ab3224e4daae7e295d44d9700</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>4d4a3905dfb545c9943d62a7f278f223</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>c37be0f4f0134aba8d54336ce519ad04</sys_id><sequence>4</sequence><sys_updated_by>Ravi</sys_updated_by><sys_created_on>2020-04-23 21:01:25</sys_created_on><field_value_label>error</field_value_label><field_value>error</field_value><sys_updated_on>2020-04-23 21:01:25</sys_updated_on><sys_created_by>Ravi</sys_created_by><universal_template_id>0121101ab3224e4daae7e295d44d9700</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>4d4a3905dfb545c9943d62a7f278f223</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>c624cb0b9b9743bd9d16414e1504da42</sys_id><sequence>2</sequence><sys_updated_by>Ravi</sys_updated_by><sys_created_on>2020-04-23 21:01:25</sys_created_on><field_value_label>warning</field_value_label><field_value>warning</field_value><sys_updated_on>2020-04-23 21:01:25</sys_updated_on><sys_created_by>Ravi</sys_created_by><universal_template_id>0121101ab3224e4daae7e295d44d9700</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>6d42a93db87d4abeb249a203c9b18fc9</field_id><use_field_value_for_label>false</use_field_value_for_label><sys_id>c6cb9c153922410bb7c69a51d095fb0f</sys_id><sequence>0</sequence><sys_updated_by>Ravi</sys_updated_by><sys_created_on>2020-04-23 21:01:25</sys_created_on><field_value_label>Start EC2 Instance</field_value_label><field_value>start_ec2</field_value><sys_updated_on>2020-04-23 21:07:25</sys_updated_on><sys_created_by>Ravi</sys_created_by><universal_template_id>0121101ab3224e4daae7e295d44d9700</universal_template_id></ops_unv_tmplt_field_choice></related_items_node></ops_unv_tmplt></unload>
